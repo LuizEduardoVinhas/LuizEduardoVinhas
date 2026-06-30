@@ -18,8 +18,6 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 - 🎓 Cursando Sistemas de Informação na Uninassau.
 - 💻 Desenvolvendo projetos práticos, como plataformas web e simulações de infraestrutura.
 - 🎯 Em busca da minha primeira oportunidade no mercado de T.I. com o objetivo de construir uma carreira sólida em tecnologia.
-  </br>
-  <img src="https://img.shields.io/badge/Projeto-AdoteiPorAmor-orange?style=for-the-badge" />
 
 ---
 
@@ -38,4 +36,5 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 <div align="center"> 
   <a href="mailto:luizelcvinhas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/luiz-eduardo-lima-cv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a  <img src="https://img.shields.io/badge/Projeto-AdoteiPorAmor-orange?style=for-the-badge" ></a> 
 </div>
