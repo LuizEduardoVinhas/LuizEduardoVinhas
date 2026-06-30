@@ -33,8 +33,16 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 
 ## 📬 Como me encontrar
 
-<div align="center"> 
-  <a href="mailto:luizelcvinhas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/luiz-eduardo-lima-cv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a  <img src="https://img.shields.io/badge/Projeto-AdoteiPorAmor-orange?style=for-the-badge" ></a> 
+<div align="center">
+  <a href="mailto:luizelcvinhas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/luiz-eduardo-lima-cv" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://github.com/LuizEduardoVinhas/AdoteiPorAmorWeb.git" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto-AdoteiPorAmor-orange?style=for-the-badge" alt="Projeto AdoteiPorAmor">
+  </a>
 </div>
