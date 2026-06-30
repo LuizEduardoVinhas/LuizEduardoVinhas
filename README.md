@@ -18,6 +18,7 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 - 🎓 Cursando Sistemas de Informação na Uninassau.
 - 💻 Desenvolvendo projetos práticos, como plataformas web e simulações de infraestrutura.
 - 🎯 Em busca da minha primeira oportunidade no mercado de T.I. com o objetivo de construir uma carreira sólida em tecnologia.
+  </br>
   <img src="https://img.shields.io/badge/Projeto-AdoteiPorAmor-orange?style=for-the-badge" />
 
 ---
@@ -25,9 +26,9 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Estatísticas-232f3e?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Projeto-AdoteiPorAmor-orange?style=for-the-badge" />
+  <a href="https://github.com/LuizEduardoVinhas/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizEduardoVinhas&theme=dracula&cache=1" />
+  </a>
 </div>
 
 ---
