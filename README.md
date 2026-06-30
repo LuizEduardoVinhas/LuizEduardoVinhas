@@ -1,43 +1,52 @@
-# Olá, eu sou  Luiz Eduardo! 
+# Luiz Eduardo! 👋
 
-Estudante de Sistemas de Informação na Uninassau e focado em desenvolvimento de software. Uso o GitHub para hospedar meus projetos acadêmicos e os sistemas que desenvolvo nos meus estudos diários, buscando sempre consolidar minha base em desenvolvimento e infraestrutura.
+Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de software e com forte interesse em infraestrutura e redes. Uso o GitHub para hospedar meus projetos acadêmicos e os sistemas que construo nos meus estudos diários, buscando sempre consolidar minha base para evoluir como desenvolvedor Full Stack.
 
-## 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Stack & Ferramentas |
-| :--- | :--- |
-| **Linguagens & Web** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22" height="22" valign="middle"> HTML5 &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22" height="22" valign="middle"> CSS3 &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="22" height="22" valign="middle"> JavaScript &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" height="22" valign="middle"> Python |
-| **Frameworks & Libs** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22" height="22" valign="middle"> React.js &nbsp;&nbsp; `Node.js` &nbsp;&nbsp; `Tailwind CSS` |
-| **Infra & Ferramentas** | `Git` &nbsp;&nbsp; `Banco de Dados` &nbsp;&nbsp; `Conceitos de Redes`
-
-## 📈 Meu Momento Atual
-
-- 🎓 Cursando Sistemas de Informação (Uninassau).
-- 💻 Focado em práticas e estudos diários de Back-end e front-end para evolução como Full Stack.
-- 🎯 Em busca da minha primeira oportunidade no mercado de T.I.
-
-- 
-## 📊 Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/LuizEduardoVinhas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoVinhas&show_icons=true&theme=radical&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoVinhas&layout=compact&langs_count=8&theme=radical" />
-  </a>
+<div align="center">
+  <img alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Luiz-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Luiz-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="Luiz-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-##
 
 ---
 
-📬 **Como me encontrar:**
-- [LinkedIn](https://github.com/LuizEduardoVinhas)
-- Email: luizelcvinhas@gmail.com
+## 📈 Meu Momento Atual
+
+- 🎓 Cursando Sistemas de Informação na Uninassau.
+- 💻 Desenvolvendo projetos práticos, como plataformas web e simulações de infraestrutura.
+- 🎯 Em busca da minha primeira oportunidade no mercado de T.I. com o objetivo de construir uma carreira sólida em tecnologia.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/LuizEduardoVinhas">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoVinhas&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub de Luiz Eduardo" />
+  </a>
+  <a href="https://github.com/LuizEduardoVinhas">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoVinhas&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas por Luiz Eduardo" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/LuizEduardoVinhas/adoteiporamor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizEduardoVinhas&repo=adoteiporamor&theme=dracula&show_owner=true" alt="Projeto Adotei por Amor" />
+  </a>
+</div>
+
+---
+
+## 📬 Como me encontrar
+
+<div align="center"> 
+  <a href="mailto:luizelcvinhas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/luiz-eduardo-lima-cv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+</div>
