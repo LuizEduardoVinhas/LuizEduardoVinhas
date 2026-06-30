@@ -8,8 +8,6 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
   <img alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Luiz-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Luiz-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="Luiz-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
@@ -27,10 +25,10 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 
 <div align="center">
   <a href="https://github.com/LuizEduardoVinhas">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoVinhas&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub de Luiz Eduardo" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoVinhas&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/LuizEduardoVinhas">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoVinhas&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas por Luiz Eduardo" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoVinhas&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas" />
   </a>
 </div>
 
