@@ -18,6 +18,7 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 - 🎓 Cursando Sistemas de Informação na Uninassau.
 - 💻 Desenvolvendo projetos práticos, como plataformas web e simulações de infraestrutura.
 - 🎯 Em busca da minha primeira oportunidade no mercado de T.I. com o objetivo de construir uma carreira sólida em tecnologia.
+  <img src="https://img.shields.io/badge/Projeto-AdoteiPorAmor-orange?style=for-the-badge" />
 
 ---
 
