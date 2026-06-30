@@ -24,11 +24,12 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/LuizEduardoVinhas">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoVinhas&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <a href="https://github.com/LuizEduardoVinhas/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizEduardoVinhas&theme=dracula" />
   </a>
-  <a href="https://github.com/LuizEduardoVinhas">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoVinhas&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas" />
+  
+  <a href="https://github.com/LuizEduardoVinhas/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=LuizEduardoVinhas&theme=dracula" />
   </a>
 </div>
 
@@ -36,7 +37,7 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 
 <div align="center">
   <a href="https://github.com/LuizEduardoVinhas/adoteiporamor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizEduardoVinhas&repo=adoteiporamor&theme=dracula&show_owner=true" alt="Projeto Adotei por Amor" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizEduardoVinhas&repo=adoteiporamor&theme=dracula&show_owner=true" />
   </a>
 </div>
 
