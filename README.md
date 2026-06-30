@@ -1,4 +1,4 @@
-# Luiz Eduardo! 👋
+# Luiz Eduardo
 
 Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de software e com forte interesse em infraestrutura e redes. Uso o GitHub para hospedar meus projetos acadêmicos e os sistemas que construo nos meus estudos diários, buscando sempre consolidar minha base para evoluir como desenvolvedor Full Stack.
 
@@ -25,19 +25,15 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 
 <div align="center">
   <a href="https://github.com/LuizEduardoVinhas/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizEduardoVinhas&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizEduardoVinhas&theme=dracula&cache=1" />
   </a>
   
   <a href="https://github.com/LuizEduardoVinhas/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=LuizEduardoVinhas&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=LuizEduardoVinhas&theme=dracula&cache=1" />
   </a>
-</div>
 
-<br>
-
-<div align="center">
   <a href="https://github.com/LuizEduardoVinhas/adoteiporamor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizEduardoVinhas&repo=adoteiporamor&theme=dracula&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizEduardoVinhas&repo=adoteiporamor&theme=dracula&show_owner=true&cache=1" />
   </a>
 </div>
 
