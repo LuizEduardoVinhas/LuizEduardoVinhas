@@ -24,17 +24,11 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/LuizEduardoVinhas/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizEduardoVinhas&theme=dracula&cache=1" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizEduardoVinhas&theme=dracula&show_icons=true" />
   
-  <a href="https://github.com/LuizEduardoVinhas/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=LuizEduardoVinhas&theme=dracula&cache=1" />
-  </a>
-
-  <a href="https://github.com/LuizEduardoVinhas/adoteiporamor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizEduardoVinhas&repo=adoteiporamor&theme=dracula&show_owner=true&cache=1" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoVinhas&theme=dracula&layout=compact" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizEduardoVinhas&repo=adoteiporamor&theme=dracula" />
 </div>
 
 ---
