@@ -42,7 +42,4 @@ Estudante de Sistemas de Informação na Uninassau, focado no desenvolvimento de
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://github.com/LuizEduardoVinhas/AdoteiPorAmorWeb.git](https://github.com/LuizEduardoVinhas/Habitat.git)" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto-AdoteiPorAmor-orange?style=for-the-badge" alt="Projeto Habitat">
-  </a>
 </div>
